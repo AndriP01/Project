@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+  	padding: 0;
+  	box-sizing: border-box;
+
+}
+body{
+  font-family: 'Zen Kaku Gothic New', sans-serif;
+  font-size: 16px;
+}
+a{
+	text-decoration: none;
+	font-size: 16px; 
+	font-family: sans-serif; 
+	padding: 14px 10px;
+  }
+ ul{
+  padding: 14px 
+} 
+ li{ 
+ 	list-style: none; 
+ 	display: inline; 
+ }
+  li a{ 
+
+  	background: red; color:#d4d4d4; 
+  } 
+  li a:hover{
+   background:whitesmoke; color:black; 
+} 
+  .navi{ 
+  	background:white; height:100%
+  	 }
+}
+nav{
+
+	background-color: #FFFFFF;
+  	border-bottom: 1px solid #E7E6E1;
+  	display: flex;
+}
+.search{
+  padding: 20px 100px ;
+  background: rgba(5, 5,100, 0.1);
+  border: 0px solid white;
+}
+#berita1{
+  background: white; color:white;
+
+}
+.top{
+	border-style: solid;
+}
